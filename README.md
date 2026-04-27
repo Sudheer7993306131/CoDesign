@@ -1,5 +1,9 @@
 # 🚀 CodeSign – Unified Learning & Recruitment Platform
 
+
+## 🔗 GitHub Repository
+👉 [View Project on GitHub](https://github.com/Sudheer7993306131/CoDesign)
+
 ## 📌 Overview
 
 **CodeSign** is a full-stack web application designed to unify the entire journey of a technology learner—from learning and mentorship to networking and job recruitment—into a single platform.
